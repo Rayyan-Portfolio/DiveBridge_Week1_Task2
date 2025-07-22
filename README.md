@@ -1,7 +1,7 @@
 
 # DiveBridge_Week1_Task1 – Netflix-Inspired UI
 
-🔗 **Live Preview**: [https://dive-bridge-week1-task1.vercel.app/](https://dive-bridge-week1-task1.vercel.app/)
+🔗 **Live Preview**: [Visit site](https://dive-bridge-week1-task2.vercel.app/)
 
 This project is a front-end clone of the Netflix landing page interface. It replicates the core layout, background effects, content structure, and styling using only **HTML** and **CSS**, designed as part of Week 1 Task 1 for DiveBridge.
 
