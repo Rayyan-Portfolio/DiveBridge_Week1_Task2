@@ -1,5 +1,5 @@
 
-# DiveBridge_Week1_Task1 – Netflix-Inspired UI
+# DiveBridge_Week1_Task2 – Netflix-Inspired UI
 
 🔗 **Live Preview**: [Visit site](https://dive-bridge-week1-task2.vercel.app/)
 
